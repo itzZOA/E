@@ -1,3 +1,3 @@
 # ED
-Practicas y retos d ela asignatura de estructura de datos.
+Practicas y retos de la asignatura de estructura de datos.
 
